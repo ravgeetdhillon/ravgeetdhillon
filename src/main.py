@@ -41,7 +41,7 @@ def get_number_of_words_written():
             content = content.split(' ')
             word_count += len(content)
 
-    return word_count
+    return str(word_count)
 
 
 def get_age(dob):
