@@ -35,12 +35,13 @@ jobs:
         env:
           REMOTE_BRANCH: master
         run: |
-          change=`git diff readme.md`
+          readme_file='readme.md'
+          change=`git diff $readme_file`
           if [ ! -z "$change" ]
           then
             git config --global user.name ${GITHUB_ACTOR}  
             git config --global user.email ${GITHUB_ACTOR}@users.noreply.github.com
-            git add README.md
-            git commit -m "gh-actions updated README"
+            git add $readme_file
+            git commit -m "gh-actions updated $readme_file"
             git push --force https://${GITHUB_ACTOR}:${{secrets.GITHUB_TOKEN}}@github.com/${GITHUB_REPOSITORY}.git HEAD:${REMOTE_BRANCH}
           fi
