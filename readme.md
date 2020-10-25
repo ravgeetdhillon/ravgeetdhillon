@@ -1,4 +1,4 @@
-On this planet for **8224 days**. Written about **21912 words**.
+On this planet for **8225 days**. Written about **22848 words**.
 
 # Hello Beautiful! <img src="assets/wave.gif" width="32px">
 
@@ -26,7 +26,7 @@ I love to explore new technologies. I use the following technologies to create d
 
 ### 🖊️ Writing
 
-I love to write [blogs](https://www.ravsam.in/blog/) as it helps me in connecting with people in the community. I have written about 21912 words. Writing blogs have helped me get my first customers, so I suggest everyone document their journey or learnings in the form of a web blog.
+I love to write [blogs](https://www.ravsam.in/blog/) as it helps me in connecting with people in the community. I have written about 22848 words. Writing blogs have helped me get my first customers, so I suggest everyone document their journey or learnings in the form of a web blog.
 
 ### 🎹 Music
 
@@ -36,4 +36,4 @@ Sometimes I decide to get away from tech life and dive straight into music produ
 
 If you are looking for Web, Mobile, or Software Development services, you are most welcome to get in touch with me or visit [RavSam](https://www.ravsam.in/). You can either reach out to me via [LinkedIn](https://www.linkedin.com/in/ravgeetdhillon/) or send your requirements to [our company email](mailto:ravgeetdhillon@gmail.com).
 
-<sub>Last updated by Github Actions on 24 Oct, 2020.</sub>
+<sub>Last updated by Github Actions on 25 Oct, 2020.</sub>
