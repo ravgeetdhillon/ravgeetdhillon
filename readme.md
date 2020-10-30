@@ -6,7 +6,7 @@ On this planet for **8230 days**. Written about **22848 words**.
 
 ### 😄 About
 
-Currently, I am juggling between my studies and managing my [tech startup, RavSam](https://www.ravsam.in/). I am pursuing M.Tech in Computer Science and Technology at Guru Nanak Dev University and will be post-graduating in 2022.
+Currently, I am juggling between my studies and managing my [tech startup, RavSam](https://www.ravsam.in/). I am pursuing M.Tech in Computer Science and Engineering at Guru Nanak Dev University and will be post-graduating in 2022.
 
 ### 🙏 Open Source
 
