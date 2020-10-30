@@ -30,7 +30,7 @@ I love to write [blogs](https://www.ravsam.in/blog/) as it helps me in connectin
 
 ### 🎹 Music
 
-Sometimes I decide to get away from tech life and dive straight into music production. I have [my Youtube channel](https://youtube.com/ravdmusic), where you can remixes and originals.
+Sometimes I decide to get away from tech life and dive straight into music production. I have [my Youtube channel](https://youtube.com/ravdmusic), where you can listen to my remixes and originals.
 
 ### 🤝 Be my next customer
 
