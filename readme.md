@@ -1,4 +1,4 @@
-On this planet for **8233 days**. Written about **23511 words**.
+On this planet for **8234 days**. Written about **23511 words**.
 
 # Hello Beautiful! <img src="assets/wave.gif" width="32px">
 
@@ -36,4 +36,4 @@ Sometimes I decide to get away from tech life and dive straight into music produ
 
 If you are looking for Web, Mobile, or Software Development services, you are most welcome to get in touch with me or visit [RavSam](https://www.ravsam.in/). You can either reach out to me via [LinkedIn](https://www.linkedin.com/in/ravgeetdhillon/) or send your requirements to [our company email](mailto:ravgeetdhillon@gmail.com).
 
-<sub>Last updated by Github Actions on 02 Nov, 2020.</sub>
+<sub>Last updated by Github Actions on 03 Nov, 2020.</sub>
