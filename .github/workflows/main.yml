@@ -39,9 +39,9 @@ jobs:
           change=`git diff $readme_file`
           if [ ! -z "$change" ]
           then
-            git config --global user.name ${GITHUB_ACTOR}  
-            git config --global user.email ${GITHUB_ACTOR}@users.noreply.github.com
+            git config user.name "Github Actions" 
+            git config user.email noreply@github.com
             git add $readme_file
-            git commit -m "gh-actions updated $readme_file"
-            git push --force https://${GITHUB_ACTOR}:${{secrets.GITHUB_TOKEN}}@github.com/${GITHUB_REPOSITORY}.git HEAD:${REMOTE_BRANCH}
+            git commit -m "chore: updated $readme_file"
+            git push origin master --force
           fi
