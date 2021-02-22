@@ -17,16 +17,17 @@ I am a GNOME Foundation Member, where I contribute to Web and Engagement Teams. 
 I love to explore new technologies. I use the following technologies to create data flows and amazing experiences for my clients and users. I try to automate almost everything that comes my way as it helps to improve my productivity and connection with my clients.
 
 - **Python** - Almost Everywhere
+- **Strapi** - CMS and API Development
 - **Laravel** - Backend Development
-- **Vue.js** - Front End Development
+- **Vue/Nuxt** - Front End Development
 - **Flutter** - Cross-Platform App Development
 - **Jekyll** - Static Site Generation
 - **Netlify** - Deployment
-- **Google Apps Script** - Automation and Serverless Things
+- **Google Apps Script** - Automation
 
 ### 🖊️ Writing
 
-I write blogs on my [company website](https://www.ravsam.in/blog/), [CSS Tricks](https://css-tricks.com/author/ravgeetdhillon/) as it helps me in connecting with people in the community. I have written about 34145 words. Writing blogs have helped me get my first customers, so I suggest everyone document their journey or learnings in the form of a web blog.
+I write blogs on my [startup's website](https://www.ravsam.in/blog/), [CSS Tricks](https://css-tricks.com/author/ravgeetdhillon/) as it helps me in connecting with people in the community. I have written about 34145 words. Writing blogs have helped me get my first customers, so I suggest everyone document their journey or learnings in the form of a web blog.
 
 ### 🎹 Music
 
