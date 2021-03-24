@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=ravgeetdhillon)
+
 On this planet for **{{age}} days**. Written about **{{blog_words_written}} words**.
 
 # Hello Beautiful! <img src="assets/wave.gif" width="32px">
