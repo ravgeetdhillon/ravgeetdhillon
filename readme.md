@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=ravgeetdhillon)
 
-On this planet for **8378 days**. Written about **35217 words**.
+On this planet for **8378 days**. Written about **36073 words**.
 
 # Hello Beautiful! <img src="assets/wave.gif" width="32px">
 
@@ -29,7 +29,7 @@ I love to explore new technologies. I use the following technologies to create d
 
 ### 🖊️ Writing
 
-I write blogs on my [startup's website](https://www.ravsam.in/blog/), [CSS Tricks](https://css-tricks.com/author/ravgeetdhillon/) as it helps me in connecting with people in the community. I have written about 35217 words. Writing blogs have helped me get my first customers, so I suggest everyone document their journey or learnings in the form of a web blog.
+I write blogs on my [startup's website](https://www.ravsam.in/blog/), [CSS Tricks](https://css-tricks.com/author/ravgeetdhillon/) as it helps me in connecting with people in the community. I have written about 36073 words. Writing blogs have helped me get my first customers, so I suggest everyone document their journey or learnings in the form of a web blog.
 
 ### 🎹 Music
 
