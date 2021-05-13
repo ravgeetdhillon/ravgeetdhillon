@@ -30,7 +30,7 @@ def get_number_of_words_written():
     """
 
     feeds = ['https://www.ravsam.in/blog/feed.json',
-             'https://ravgeetdev.netlify.app/blog/feed.json']
+             'https://www.ravgeet.in/blog/feed.json']
 
     word_count = 0
 
