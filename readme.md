@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=ravgeetdhillon)
 
-On this planet for **8493 days**. Written about **41959 words**.
+On this planet for **8494 days**. Written about **42398 words**.
 
 # Hello Beautiful! <img src="assets/wave.gif" width="32px">
 
@@ -29,7 +29,7 @@ I love to explore new technologies. I use the following technologies to create d
 
 ### 🖊️ Writing
 
-I write blogs on my [startup's website](https://www.ravsam.in/blog/), [CSS Tricks](https://css-tricks.com/author/ravgeetdhillon/) as it helps me in connecting with people in the community. I have written about 41959 words. Writing blogs have helped me get my first customers, so I suggest everyone document their journey or learnings in the form of a web blog.
+I write blogs on my [startup's website](https://www.ravsam.in/blog/), [CSS Tricks](https://css-tricks.com/author/ravgeetdhillon/) as it helps me in connecting with people in the community. I have written about 42398 words. Writing blogs have helped me get my first customers, so I suggest everyone document their journey or learnings in the form of a web blog.
 
 ### 🎹 Music
 
@@ -39,4 +39,4 @@ Sometimes I decide to get away from tech life and dive straight into music produ
 
 If you are looking for Web, Mobile, or Software Development services, you are most welcome to [get in touch with me](mailto:ravgeetdhillon@gmail.com) or visit [RavSam](https://www.ravsam.in/). You can either reach out to me via [LinkedIn](https://www.linkedin.com/in/ravgeetdhillon/) or send your requirements to [our company email](mailto:info@ravsam.in).
 
-<sub>Last updated by Github Actions on 20 Jul, 2021.</sub>
+<sub>Last updated by Github Actions on 21 Jul, 2021.</sub>
