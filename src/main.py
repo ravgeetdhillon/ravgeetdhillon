@@ -14,8 +14,8 @@ def create_readme():
     Creates the Readme.md from the Readme template.
     """
 
-    readme = io.open('../readme.md', 'w+')
-    for line in io.open('readme.template.md', 'r'):
+    readme = io.open('readme.md', 'w+')
+    for line in io.open('src/readme.template.md', 'r'):
         line = line.replace('{{age}}', get_age('1998-04-19'))
         line = line.replace('{{last_updated}}', get_last_updated())
         line = line.replace('{{blog_words_written}}',
@@ -24,13 +24,31 @@ def create_readme():
     readme.close()
 
 
+def get_weather():
+    """
+    Returns the number of words written by scraping the feed.
+    """
+
+    feeds = ['https://www.ravgeet.in/blog/feed.json']
+
+    word_count = 0
+
+    for feed_url in feeds:
+        feed = json.loads(requests.get(feed_url).content)
+        for blog in feed['items']:
+            content = re.sub(r'[^A-Za-z0-9 ]+', '', blog['content_html'])
+            content = content.split(' ')
+            word_count += len(content)
+
+    return str(word_count)
+
+
 def get_number_of_words_written():
     """
     Returns the number of words written by scraping the feed.
     """
 
-    feeds = ['https://www.ravsam.in/blog/feed.json',
-             'https://www.ravgeet.in/blog/feed.json']
+    feeds = ['https://www.ravgeet.in/blog/feed.json']
 
     word_count = 0
 

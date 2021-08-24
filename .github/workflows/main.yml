@@ -8,9 +8,8 @@ on:
     - cron: "0 12 * * *"
 
 jobs:
-  updation:
+  update-readme:
     runs-on: ubuntu-latest
-
     steps:
       - name: Setup repository
         uses: actions/checkout@v2
@@ -31,13 +30,13 @@ jobs:
         run: |
           cd src
           python main.py
-          cd ..
+          # cd ..
+          python src/main.py
 
       - name: Commit and Push
         run: |
-          readme_file='readme.md'
-          change=`git diff $readme_file`
-          if [ ! -z "$change" ]; then
+          readme_file="readme.md"
+          if [ $(git status $readme_file --porcelain=v1 2>/dev/null | wc -l) != "0" ] ; then
             git config user.name "Github Actions" 
             git config user.email noreply@github.com
             git add $readme_file
