@@ -11,7 +11,7 @@
 ## 😄 About
 
 - I am a **Full Stack Developer**, **Flutter Developer**, and **Technical Content Writer** based in India 🇮🇳.
-- I run my one-man Digital Product Development agency, [RavSam](https://www.ravsam.in) via which I provide my **freelance services to startups and businesses** around the globe.
+- I run my one-man Digital Product Development agency, [RavSam](https://www.ravsam.in), via which I provide my **freelance services to startups and businesses** around the globe.
 - I have written blogs for [CSS Tricks](https://css-tricks.com/author/ravgeetdhillon/), [Vonage](https://learn.vonage.com/authors/ravgeet-dhillon/), **ATA**, and recently for **Twilio**.
 - I am currently **pursuing my Masters in Computer Science and Engineering** at Guru Nanak Dev Engineering and will be **post-graduating in 2022**.
 
@@ -21,8 +21,6 @@
 
 ## 🤝 How I can help you
 
-- I am **open to work with startups and businesses that offer remote work**.
-- My inbox is open for everyone and I reply to every email I receive. I would love to help you, just [send me an email](mailto:ravgeetdhillon@gmail.com).
 - I can help you with:
   - **Front End Development** - React/Vue/Next/Nuxt
   - **Backend Development** - PHP/Node/Laravel
@@ -34,6 +32,8 @@
   - **DevOps** - Github Actions/Gitlab CICD
   - **Automation** - Google Apps Script
   - **Almost Everywhere** - Python
+- I am **open to work with startups and businesses that offer remote work**.
+- My inbox is open for everyone and I reply to every email I receive. I would love to help you, just [send me an email](mailto:ravgeetdhillon@gmail.com).
 
 ## 🎹 Music
 
