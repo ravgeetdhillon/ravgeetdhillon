@@ -28,9 +28,6 @@ jobs:
 
       - name: Update README
         run: |
-          cd src
-          python main.py
-          # cd ..
           python src/main.py
 
       - name: Commit and Push
