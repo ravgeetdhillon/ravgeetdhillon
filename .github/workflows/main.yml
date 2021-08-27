@@ -5,7 +5,7 @@ on:
     branches:
       - master
   schedule:
-    - cron: "0 12 * * *"
+    - cron: "30 17 * * *" # Since I was born at 11PM IST
 
 jobs:
   update-readme:
@@ -20,18 +20,28 @@ jobs:
         uses: actions/setup-python@v2
         with:
           python-version: 3.x
-
-      - name: Install PIP Dependencies
-        run: |
+      
+      - name: Cache PIP Dependencies
+        id: cache-pip-dependencies
+        uses: actions/cache@v2
+        with:
+          path: ${{ env.pythonLocation}}
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+            
+      - name: Install Dependencies if not cached
+        if: steps.cache-pip-dependencies.outputs.cache-hit != 'true'
+        run: |-
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
       - name: Update README
-        run: |
+        run: |-
           python src/main.py
 
       - name: Commit and Push
-        run: |
+        run: |-
           readme_file="readme.md"
           if [ $(git status $readme_file --porcelain=v1 2>/dev/null | wc -l) != "0" ] ; then
             git config user.name "Github Actions" 
