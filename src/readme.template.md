@@ -10,14 +10,14 @@
 
 ## 😄 About
 
-- I am a **Full Stack Developer**, **Flutter Developer**, and **Technical Content Writer** based in India 🇮🇳.
+- I am a **Full Stack Developer**(React, Vue, Flutter, Laravel, Node, Strapi, Python) and **Technical Content Writer** based in India 🇮🇳.
 - I run my one-man Digital Product Development agency, [RavSam](https://www.ravsam.in), via which I provide my **freelance services to startups and businesses** around the globe.
 - I have written blogs for [CSS Tricks](https://css-tricks.com/author/ravgeetdhillon/), [Vonage](https://learn.vonage.com/authors/ravgeet-dhillon/), **ATA**, and recently for **Twilio**.
 - I am currently **pursuing my Masters in Computer Science and Engineering** at Guru Nanak Dev Engineering and will be **post-graduating in 2022**.
 
 ## 🙏 Open Source
 
-- I am a **GNOME Foundation Member**, where I contribute to Web and Engagement Teams. In 2019, I revamped the [GTK Website](https://www.gtk.org/) as a Google Summer of Code Developer. It was **greatly appreciated** by the open-source community.
+- I am a **GNOME Foundation Member**, where I contribute to Web and Engagement Teams. In 2019, I revamped the [GTK Website](https://www.gtk.org/) as a Google Summer of Code Developer. It was [greatly appreciated](https://twitter.com/GTKtoolkit/status/1230167481228107776) by the open-source community.
 
 ## 🤝 How I can help you
 
