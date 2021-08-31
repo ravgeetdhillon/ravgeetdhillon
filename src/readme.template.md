@@ -42,7 +42,7 @@ Sometimes I decide to get away from tech life and dive straight into music produ
 ## 🎯 Stats
 
 - ![](https://komarev.com/ghpvc/?username=ravgeetdhillon)
-- I have a [newsletter](https://www.ravsam.in/newsletter/) with 1000+ subscribers.
+- I have a [newsletter](https://www.ravsam.in/newsletter/) with **1000+ subscribers**.
 - I have been on this planet for **{{age}} days**.
 - I have written about **{{blog_words_written}} words** through my blog posts.
 
