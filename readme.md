@@ -43,7 +43,7 @@ Sometimes I decide to get away from tech life and dive straight into music produ
 
 - ![](https://komarev.com/ghpvc/?username=ravgeetdhillon)
 - I have a [newsletter](https://www.ravsam.in/newsletter/) with **1000+ subscribers**.
-- I have been on this planet for **8544 days**.
+- I have been on this planet for **8545 days**.
 - I have written about **39731 words** through my blog posts.
 
-<sub>Last updated by Github Actions on 09 Sep, 2021.</sub>
+<sub>Last updated by Github Actions on 10 Sep, 2021.</sub>
