@@ -1,10 +1,10 @@
 [Website](https://www.ravgeet.in) &bull;
-[Blog](https://www.ravgeet.in/blog/) &bull;
-[Resume](https://www.ravgeet.in/resume/) &bull;
-[Dribbble](https://www.dribbble.com/ravgeetdhillon) &bull;
+[Blog](https://blog.ravgeet.in/) &bull;
 [LinkedIn](https://www.linkedin.com/in/ravgeetdhillon) &bull;
 [Twitter](https://www.twitter.com/ravgeetdhillon) &bull;
-[Email](mailto:ravgeetdhillon@gmail.com)
+[Dribbble](https://www.dribbble.com/ravgeetdhillon) &bull;
+[Email](mailto:ravgeetdhillon@gmail.com) &bull;
+[Resume](https://www.ravgeet.in/resume/)
 
 # Welcome <img src="assets/wave.gif" width="32px">
 
@@ -42,7 +42,7 @@ Sometimes I decide to get away from tech life and dive straight into music produ
 ## 🎯 Stats
 
 - ![](https://komarev.com/ghpvc/?username=ravgeetdhillon)
-- I have a [newsletter](https://www.ravsam.in/newsletter/) with **1000+ subscribers**.
+- I have a [newsletter](https://www.ravsam.in/newsletter/) with **300+ subscribers**.
 - I have been on this planet for **{{age}} days**.
 - I have written about **{{blog_words_written}} words** through my blog posts.
 
