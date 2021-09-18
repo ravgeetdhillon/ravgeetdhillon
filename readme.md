@@ -1,16 +1,17 @@
 [Website](https://www.ravgeet.in) &bull;
-[Blog](https://www.ravgeet.in/blog/) &bull;
-[Resume](https://www.ravgeet.in/resume/) &bull;
-[Dribbble](https://www.dribbble.com/ravgeetdhillon) &bull;
+[Blog](https://blog.ravgeet.in/) &bull;
 [LinkedIn](https://www.linkedin.com/in/ravgeetdhillon) &bull;
 [Twitter](https://www.twitter.com/ravgeetdhillon) &bull;
-[Email](mailto:ravgeetdhillon@gmail.com)
+[Dribbble](https://www.dribbble.com/ravgeetdhillon) &bull;
+[Email](mailto:ravgeetdhillon@gmail.com) &bull;
+[Resume](https://www.ravgeet.in/resume/)
 
 # Welcome <img src="assets/wave.gif" width="32px">
 
 ## 😄 About
 
-- I am a **Full Stack Developer**(React, Vue, Flutter, Laravel, Node, Strapi, Python) and **Technical Content Writer** based in India 🇮🇳.
+- I am a **Full Stack Developer** and **Technical Content Writer** based in India 🇮🇳.
+- My stack includes **React**, **Vue**, **Flutter**, **Laravel**, **Node**, **Strapi**, **Python**, **MySQL**. I am constantly learning new technologies and look to add more in the future.
 - I run my one-man Digital Product Development agency, [RavSam](https://www.ravsam.in), via which I provide my **freelance services to startups and businesses** around the globe.
 - I have written blogs for [CSS Tricks](https://css-tricks.com/author/ravgeetdhillon/), [Vonage](https://learn.vonage.com/authors/ravgeet-dhillon/), **ATA**, and recently for **Twilio**.
 - I am currently **pursuing my Masters in Computer Science and Engineering** at Guru Nanak Dev Engineering and will be **post-graduating in 2022**.
@@ -41,9 +42,9 @@ Sometimes I decide to get away from tech life and dive straight into music produ
 
 ## 🎯 Stats
 
-- ![](https://komarev.com/ghpvc/?username=ravgeetdhillon)
-- I have a [newsletter](https://www.ravsam.in/newsletter/) with **1000+ subscribers**.
-- I have been on this planet for **8546 days**.
-- I have written about **39731 words** through my blog posts.
+- ![Ravgeet Dhillon's GitHub Profile View Count](https://komarev.com/ghpvc/?username=ravgeetdhillon)
+- I have a monthly [newsletter](https://www.ravsam.in/newsletter/) with **300+ subscribers**.
+- I have been on this planet for **8553 days**.
+- I have written about **32152 words** through my blog posts.
 
-<sub>Last updated by Github Actions on 11 Sep, 2021.</sub>
+<sub>Last updated by Github Actions on 18 Sep, 2021.</sub>
