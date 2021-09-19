@@ -44,7 +44,7 @@ Sometimes I decide to get away from tech life and dive straight into music produ
 
 - ![Ravgeet Dhillon's GitHub Profile View Count](https://komarev.com/ghpvc/?username=ravgeetdhillon)
 - I have a monthly [newsletter](https://www.ravsam.in/newsletter/) with **300+ subscribers**.
-- I have been on this planet for **8553 days**.
+- I have been on this planet for **8554 days**.
 - I have written about **32152 words** through my blog posts.
 
-<sub>Last updated by Github Actions on 18 Sep, 2021.</sub>
+<sub>Last updated by Github Actions on 19 Sep, 2021.</sub>
