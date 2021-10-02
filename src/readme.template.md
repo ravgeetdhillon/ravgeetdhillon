@@ -14,7 +14,7 @@
 - My stack includes **React**, **Vue**, **Flutter**, **Laravel**, **Node**, **Strapi**, **Python**, **MySQL**. I am constantly learning new technologies and look to add more in the future.
 - I run my one-man Digital Product Development agency, [RavSam](https://www.ravsam.in), via which I provide my **freelance services to startups and businesses** around the globe.
 - I have written blogs for [CSS Tricks](https://css-tricks.com/author/ravgeetdhillon/), [Vonage](https://learn.vonage.com/authors/ravgeet-dhillon/), **ATA**, and recently for **Twilio**.
-- I am currently **pursuing my Masters in Computer Science and Engineering** at Guru Nanak Dev Engineering and will be **post-graduating in 2022**.
+- I am currently **pursuing my Masters in Computer Science and Engineering** at Guru Nanak Dev University and will be **post-graduating in 2022**.
 
 ## 🙏 Open Source
 
