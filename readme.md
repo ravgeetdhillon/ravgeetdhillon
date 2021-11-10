@@ -93,7 +93,7 @@ I publish a monthly [newsletter](https://www.ravsam.in/newsletter/) with **300+ 
 ## 🎯 Stats
 
 - ![Ravgeet Dhillon's GitHub Profile View Count](https://komarev.com/ghpvc/?username=ravgeetdhillon)
-- I have been on this planet for **8605 days**.
+- I have been on this planet for **8606 days**.
 - I have written about **32263 words** through my blog posts.
 
 ## ☎️ Get In Touch
@@ -106,4 +106,4 @@ You can reach out to me via any of these channels:
 [Twitter](https://www.twitter.com/ravgeetdhillon) &bull;
 [LinkedIn](https://www.linkedin.com/in/ravgeetdhillon)
 
-<sub>Last updated by Github Actions on 09 Nov, 2021.</sub>
+<sub>Last updated by Github Actions on 10 Nov, 2021.</sub>
