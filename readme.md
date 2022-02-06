@@ -8,8 +8,6 @@
 
 # Welcome <img src="assets/wave.gif" width="32px">
 
-> I'll be post-graduating as a Master in Computer Science and Engineering in May 2022, so I am currently looking for a Full Time role either as a **Full Stack Developer**, **Frontend Developer** or **Technical Content Writer** and I can start as soon as possible. If your team can provide me with such an opportunity, kindly contact me at ravgeetdhillon@gmail.com.
-
 ## 😄 About
 
 I am a **Full-Stack Developer** and **Technical Content Writer** based in India 🇮🇳.
@@ -96,7 +94,7 @@ I publish a monthly [newsletter](https://www.ravsam.in/newsletter/) with **300+ 
 ## 🎯 Stats
 
 - ![Ravgeet Dhillon's GitHub Profile View Count](https://komarev.com/ghpvc/?username=ravgeetdhillon)
-- I have been on this planet for **8693 days**.
+- I have been on this planet for **8694 days**.
 - I have written about **33627 words** through my blog posts.
 
 ## ☎️ Get In Touch
@@ -109,4 +107,4 @@ You can reach out to me via any of these channels:
 [Twitter](https://www.twitter.com/ravgeetdhillon) &bull;
 [LinkedIn](https://www.linkedin.com/in/ravgeetdhillon)
 
-<sub>Last updated by Github Actions on 05 Feb, 2022.</sub>
+<sub>Last updated by Github Actions on 06 Feb, 2022.</sub>
