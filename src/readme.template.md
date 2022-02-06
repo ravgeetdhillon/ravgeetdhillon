@@ -8,8 +8,6 @@
 
 # Welcome <img src="assets/wave.gif" width="32px">
 
-> I'll be post-graduating as a Master in Computer Science and Engineering in May 2022, so I am currently looking for a Full Time role either as a **Full Stack Developer**, **Frontend Developer** or **Technical Content Writer** and I can start as soon as possible. If your team can provide me with such an opportunity, kindly contact me at ravgeetdhillon@gmail.com.
-
 ## 😄 About
 
 I am a **Full-Stack Developer** and **Technical Content Writer** based in India 🇮🇳.
