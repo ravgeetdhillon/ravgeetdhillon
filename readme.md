@@ -16,8 +16,8 @@ Along with my job, I'm currently **pursuing my Masters in Computer Science and E
 
 [Read my Story >](/story)
 
-Here is a random stat about me - I have been on this planet for **8809 days**.
+Here is a random stat about me - I have been on this planet for **8810 days**.
 
 ![Ravgeet Dhillon's GitHub Profile View Count](https://komarev.com/ghpvc/?username=ravgeetdhillon)
 
-<sub>Last updated by Github Actions on 01 Jun, 2022.</sub>
+<sub>Last updated by Github Actions on 02 Jun, 2022.</sub>
