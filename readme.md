@@ -6,7 +6,7 @@
 [Resume](https://www.ravgeet.in/resume/) &bull;
 [Email](mailto:ravgeetdhillon@gmail.com)
 
-# Welcome <img src="assets/wave.gif" width="32px">
+# Welcome <img src="assets/wave.gif" height="32px" />
 
 I am Ravgeet, a fulltime **Full-Stack Developer** and **Technical Content Writer** based in India 🇮🇳.
 
@@ -16,8 +16,8 @@ Along with my job, I'm currently **pursuing my Masters in Computer Science and E
 
 [Read my Story >](/story)
 
-Here is a random stat about me - I have been on this planet for **8838 days**.
+Here is a random stat about me - I have been on this planet for **8839 days**.
 
 ![Ravgeet Dhillon's GitHub Profile View Count](https://komarev.com/ghpvc/?username=ravgeetdhillon)
 
-<sub>Last updated by Github Actions on 30 Jun, 2022.</sub>
+<sub>Last updated by Github Actions on 01 Jul, 2022.</sub>
