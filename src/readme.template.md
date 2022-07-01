@@ -6,7 +6,7 @@
 [Resume](https://www.ravgeet.in/resume/) &bull;
 [Email](mailto:ravgeetdhillon@gmail.com)
 
-# Welcome <img src="assets/wave.gif" width="32px">
+# Welcome <img src="assets/wave.gif" height="32px" />
 
 I am Ravgeet, a fulltime **Full-Stack Developer** and **Technical Content Writer** based in India 🇮🇳.
 
