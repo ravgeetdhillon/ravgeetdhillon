@@ -10,14 +10,14 @@
 
 I am Ravgeet, a fulltime **Full-Stack Developer** and **Technical Content Writer** based in India 🇮🇳.
 
-Currently, I work as a **Software Engineer** at [CloudAnswers](https://cloudanswers.com).
+Currently, I work as a **Software Engineer** at [CloudAnswers](https://cloudanswers.com) where I use React.js, Next.js, Salesforce, Netlify and GitHub Actions.
 
-Along with my job, I'm currently **pursuing my Masters in Computer Science and Engineering** at Guru Nanak Dev University and will be post-graduating in April 2022.
+I have done my Master's in Computer Science and Engineering at Guru Nanak Dev University and post-graduated in June 2022.
 
 [Read my Story >](/story)
 
-Here is a random stat about me - I have been on this planet for **8839 days**.
+Here is a random stat about me - I have been on this planet for **8840 days**.
 
 ![Ravgeet Dhillon's GitHub Profile View Count](https://komarev.com/ghpvc/?username=ravgeetdhillon)
 
-<sub>Last updated by Github Actions on 01 Jul, 2022.</sub>
+<sub>Last updated by Github Actions on 02 Jul, 2022.</sub>
