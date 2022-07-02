@@ -10,9 +10,9 @@
 
 I am Ravgeet, a fulltime **Full-Stack Developer** and **Technical Content Writer** based in India 🇮🇳.
 
-Currently, I work as a **Software Engineer** at [CloudAnswers](https://cloudanswers.com).
+Currently, I work as a **Software Engineer** at [CloudAnswers](https://cloudanswers.com) where I use React.js, Next.js, Salesforce, Netlify and GitHub Actions.
 
-Along with my job, I'm currently **pursuing my Masters in Computer Science and Engineering** at Guru Nanak Dev University and will be post-graduating in April 2022.
+I have done my Master's in Computer Science and Engineering at Guru Nanak Dev University and post-graduated in June 2022.
 
 [Read my Story >](/story)
 
