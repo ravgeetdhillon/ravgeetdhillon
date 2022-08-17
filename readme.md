@@ -16,8 +16,8 @@ I have done my Master's in Computer Science and Engineering at Guru Nanak Dev Un
 
 [Read my Story >](/story)
 
-Here is a random stat about me - I have been on this planet for **8885 days**.
+Here is a random stat about me - I have been on this planet for **8886 days**.
 
 ![Ravgeet Dhillon's GitHub Profile View Count](https://komarev.com/ghpvc/?username=ravgeetdhillon)
 
-<sub>Last updated by Github Actions on 16 Aug, 2022.</sub>
+<sub>Last updated by Github Actions on 17 Aug, 2022.</sub>
